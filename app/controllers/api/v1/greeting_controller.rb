@@ -19,4 +19,3 @@ class Api::V1::GreetingController < ApplicationController
     headers['Access-Control-Allow-Headers'] = 'Content-Type' # Specify the allowed request headers
   end
 end
-
