@@ -74,7 +74,7 @@ In order to run this project you need:
 - Clone this repository to your desired folder:
 
 ```sh
- git clone https://github.com/kennedyowusu/hello-rails-back-end
+ git clone https://github.com/kennedyowusu/hello-rails-backend
 ```
 
 - Navigate into the cloned folder
@@ -108,7 +108,7 @@ In order to run this project you need:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**Here is the Link to Frontend**
+**Frontend Link**
 
 [Frontend](https://github.com/kennedyowusu/hello-react-front-end)
 
@@ -130,7 +130,7 @@ In order to run this project you need:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/kennedyowusu/hello-rails-back-end/issues).
+Feel free to check the [issues page](https://github.com/kennedyowusu/hello-rails-backend/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
