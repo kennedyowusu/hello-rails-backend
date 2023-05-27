@@ -15,7 +15,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Hello Rails React ](#-Hello-Rails-Backend-)
+- [📖 Hello-Rails-Backend ](#-hello-rails-backend-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -74,7 +74,7 @@ In order to run this project you need:
 - Clone this repository to your desired folder:
 
 ```sh
- git clone https://github.com/felixDev22/hello-rails-back-end
+ git clone https://github.com/kennedyowusu/hello-rails-back-end
 ```
 
 - Navigate into the cloned folder
@@ -110,17 +110,17 @@ In order to run this project you need:
 
 **Here is the Link to Frontend**
 
-[Frontend](https://github.com/felixDev22/hello-react-front-end)
+[Frontend](https://github.com/kennedyowusu/hello-react-front-end)
 
 <!-- AUTHORS -->
 
 ## 👥 Authors<a name="authors"></a>
 
-**Felix Nzomo Nyamai**
+**Kennedy Owusu**
 
-- GitHub: [@githubhandle](https://github.com/felixDev22)
-- Twitter: [@twitterhandle](https://twitter.com/@monzo200)
-- LinkedIn: [LinkedIn](https://https://www.linkedin.com/in/felixnyamai/)
+- GitHub: [@githubhandle](https://github.com/kennedyowusu)
+- Twitter: [@twitterhandle](https://twitter.com/@_iamkobby)
+- LinkedIn: [LinkedIn](https://https://www.linkedin.com/in/kennedy-owusu/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,7 +130,7 @@ In order to run this project you need:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/felixDev22/hello-rails-back-end/issues).
+Feel free to check the [issues page](https://github.com/kennedyowusu/hello-rails-back-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
